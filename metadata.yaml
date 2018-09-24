@@ -1,11 +1,16 @@
 _repo: History-of-the-Transformer_56365
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56365-h/images/cover.jpg
 creator:
   author:
     agent_name: Uppenborn, F.
     gutenberg_agent_id: '48801'
     url: http://www.gutenberg.org/2009/agents/48801
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56365#History-of-the-Transformer
 gutenberg_issued: '2018-01-13'
 gutenberg_type: Text
 identifiers:
